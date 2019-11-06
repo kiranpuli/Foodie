@@ -17,7 +17,7 @@ into a restaurant and find the food items there.
 * PhpMyadmin 4.0.4
 * XAMPP Control Panel 3.2.1
 
-### E-R diagram
+
 ![ER-diag](https://github.com/kiranpuli/Foodie1/blob/master/images/Screenshot%20(50).png)
 
 ### Types of Users
