@@ -1,5 +1,5 @@
 # _Foodie_
-### Online Food ordering and rating website
+### Food ordering and rating website
 
 ### About
 * We will provide our users with reviews and rating to restaurants in a locality
