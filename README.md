@@ -38,4 +38,4 @@ tables are:
 * Clone the repo
 * Set-up Xampp for php and SQL-database
 * Create a database="foodie" in SQL-db
-* Import foodie.sql
+* Import database.sql
